@@ -1,0 +1,3 @@
+[submodule "AltVCSharpResourceExample/dependencies/altv-types"]
+	path = AltVCSharpResourceExample/dependencies/altv-types
+	url = https://github.com/altmp/altv-types.git
